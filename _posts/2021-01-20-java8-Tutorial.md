@@ -1,3 +1,11 @@
+---
+layout: post
+title: 'java8 Tutorial'
+date: 2021-01-20
+author: CJM1024
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: java
+---
 ## java8 Tutorial
 
 ---
