@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '陈嘉明的个人博客'
+title: 'CJM024的个人博客'
 description: '昵称CjM1024，后端开发者/又菜又爱玩/不爱学习，只想睡觉。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '陈嘉明, 陈嘉明的个人博客, CjM1024的博客, 后端, 后端开发, java, python, C#, MySQL'
+keyword: 'CJM, CJM1024, CJM1024的博客, 后端, 后端开发, java, python, C#, MySQL'
 url: 'https://cjm1024.github.io/' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,7 +24,7 @@ footer:
   since: 2021
 
 # Author 配置博主信息
-author: '陈嘉明'
+author: 'chenjm'
 nickname: 'CjM1024'
 bio: '后端开发者，又菜又爱玩，很高兴能在这里与你分享我对技术和生活的思考'
 avatar: '/assets/img/profire1.png'
