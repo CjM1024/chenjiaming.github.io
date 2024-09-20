@@ -3,6 +3,7 @@ title: 'CJM1024的个人博客'
 description: '昵称CjM1024，后端开发者/又菜又爱玩/不爱学习，只想睡觉。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: 'CJM, CJM1024, CJM1024的博客, 后端, 后端开发, java, python, C#, MySQL'
 url: 'https://cjm1024.github.io/' # your host
+header-img: assets/img/title/image1.jpg
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
